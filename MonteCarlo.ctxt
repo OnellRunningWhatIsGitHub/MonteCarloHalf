@@ -1,10 +1,13 @@
 #BlueJ class context
-comment0.params=h\ k\ r
+comment0.params=h2\ k2\ r2
 comment0.target=MonteCarlo(double,\ double,\ double)
 comment1.params=
-comment1.target=double\ nextRainDrop_x()
+comment1.target=double\ nextRain_Drop_x()
+comment1.text=\r\n\ Method\ nextRainDrop_x()\ gives\ the\ x\ coordinate\ of\ a\ random\ raindrop\ within\ the\ square\r\n\ @return\ \ \ \ \ the\ x\ corrdinate\ of\ the\ raindrop\ \r\n
 comment2.params=
-comment2.target=double\ nextRainDrop_y()
+comment2.target=double\ nextRain_Drop_y()
+comment2.text=\r\n\ Method\ nextRainDrop_y()\ gives\ the\ y\ coordinate\ of\ a\ random\ raindrop\ within\ the\ square\r\n\ @return\ \ \ \ \ the\ y\ corrdinate\ of\ the\ raindrop\ \r\n
 comment3.params=x\ y
-comment3.target=boolean\ insideCirle(double,\ double)
+comment3.target=boolean\ insideCircle(double,\ double)
+comment3.text=\r\n\ Method\ insideCircle(double\ x,\ double\ y)\ tells\ us\ whether\ or\ not\ the\ raindrop\ is\ within\ the\ circle\r\n\ @param\ \ \ \ \ \ double\ x\ and\ double\ y\ \r\n\ @return\ \ \ \ \ boolean\ value\ true\ if\ inside\ or\ on\ the\ cirlce;\ boolean\ value\ false\ if\ outside\ the\ circle\ \r\n
 numComments=4
